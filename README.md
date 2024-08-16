@@ -5,6 +5,11 @@
 
 <br/>
 
+## 아키텍처 구성
+<img src="./README_source/image.png" width="700"/>
+
+<br/>
+
 ## 💡 기획 배경
 ### 1. 문제점
 - 도서관 분포의 불균형
